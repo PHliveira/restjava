@@ -8,16 +8,6 @@
     <artifactId>sistema-cardapio</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <build>
-        <resources>
-            <resource>
-                <directory>src/main/resources</directory>
-                <filtering>false</filtering>
-            </resource>
-        </resources>
-        <plugins>
-        </plugins>
-    </build>
 
     <properties>
         <maven.compiler.source>23</maven.compiler.source>
@@ -79,5 +69,14 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
+
+
     </build>
 </project>
