@@ -1,0 +1,11 @@
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/model/ItemPedido.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/model/Prato.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/repository/PratoRepository.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/repository/PedidoRepository.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/controller/PedidoController.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/service/PedidoService.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/model/Pedido.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/BackendApplication.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/repository/ItemPedidoRepository.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/service/CardapioService.java
+/Users/paulo/Projetos-pessoais-e-teste/sistema-cardapio/src/main/java/com/cardapio/backend/config/WebConfig.java
