@@ -4,7 +4,8 @@
 # Ignorar diretórios e arquivos de compilação do Maven
 /target/
 *.class
-
+# Variáveis de ambiente
+.env
 # Ignorar logs, dependências e outros arquivos de ambiente (opcional, mas recomendado)
  .idea/
 *.log
