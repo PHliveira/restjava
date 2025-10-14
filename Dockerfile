@@ -7,11 +7,11 @@ RUN mvn clean package -DskipTests
 
 
 FROM eclipse-temurin:17-jre-alpine
-EXPOSE 10000  # O Render usará essa porta
+EXPOSE 10000
 
 
 COPY --from=build /app/target/*.jar app.jar
-ENV PORT 10000 # Define a porta como uma variável de ambiente
+ENV PORT 10000
 
 
 ENTRYPOINT ["java", "-jar", "app.jar"]
