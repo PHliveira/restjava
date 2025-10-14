@@ -7,7 +7,7 @@ RUN mvn clean package -DskipTests
 
 # Estágio 2: Execução (Runtime)
 # Usa uma imagem menor (JRE) para a execução final
-FROM openjdk:17-jre-slim
+FROM eclipse-temurin:17-jre-alpine
 EXPOSE 10000  # O Render usará essa porta
 
 # Copia o JAR do estágio de build
